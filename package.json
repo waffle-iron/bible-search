@@ -1,0 +1,23 @@
+{
+  "name": "bible-search",
+  "version": "1.0.0",
+  "description": "Bible Search is a web application that allows users to search for a Bible reference and output the Scripture in their browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtaylorjr/bible-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtaylorjr/bible-search/issues"
+  },
+  "homepage": "https://github.com/davidtaylorjr/bible-search#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
