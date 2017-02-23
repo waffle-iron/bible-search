@@ -1,0 +1,18 @@
+{
+  "name": "bible-search",
+  "homepage": "https://github.com/davidtaylorjr/bible-search",
+  "authors": [
+    "David Taylor Jr. <davidtaylorjr1985@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
